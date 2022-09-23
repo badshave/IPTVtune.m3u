@@ -1,0 +1,2296 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",VIP UK: Sky Sport Racing FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30340
+#EXTINF:-1,VIP UK: Sky Sport Racing
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26015
+#EXTINF:-1,UK: Racing HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14151
+#EXTINF:-1,VIP UK: Betfred TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20592
+#EXTINF:-1,VIP UK: Coral TV 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20590
+#EXTINF:-1,VIP UK: Ladbrokes TV 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20589
+#EXTINF:-1,VIP UK: Ladbrokes TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20588
+#EXTINF:-1,VIP UK: Paddy Power TV 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20587
+#EXTINF:-1,VIP UK: Paddy Power TV 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20586
+#EXTINF:-1,VIP UK: SIS Racing
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20584
+#EXTINF:-1,VIP UK: SIS One
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20583
+#EXTINF:-1,VIP UK: SIS Two
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20582
+#EXTINF:-1,VIP UK: William Hill TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20576
+#EXTINF:-1,VIP UK: Sky Box Office PPV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13672
+#EXTINF:-1,VIP UK: BT Sports Box Office HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20823
+#EXTINF:-1,UK: MUTV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1238
+#EXTINF:-1,VIP NO: Manchester United TV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/66150
+#EXTINF:-1,UK: MUTV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7631
+#EXTINF:-1 group-title="SKY SPORT",VIP UK: Sky Sport Main Event FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30342
+#EXTINF:-1,VIP UK: Sky Sport Main Events HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8172
+#EXTINF:-1,UK: Sky Sport Main Events
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/259
+#EXTINF:-1,UK: Sky Sport Main Events HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6680
+#EXTINF:-1,VIP UK: Sky Sport Premier League FHD
+#EXTVLCOPT:program=1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30341
+#EXTINF:-1,UK: Sky Sport Premier League HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6684
+#EXTINF:-1,VIP UK: Sky Sport PL HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8176
+#EXTINF:-1,UK: Sky Sport PL
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/255
+#EXTINF:-1,VIP UK: Sky Sport Football FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30344
+#EXTINF:-1,UK: Sky Sport Football HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15406
+#EXTINF:-1,VIP UK: Sky Sport Football HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12663
+#EXTINF:-1,VIP UK: Sky Sport Arena FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30347
+#EXTINF:-1,VIP UK: Sky Sport Arena HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12662
+#EXTINF:-1,UK: Sky Sport Arena HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12665
+#EXTINF:-1,VIP UK: Sky Sport NHL FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30348
+#EXTINF:-1,VIP UK: Sky Sport News HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/28991
+#EXTINF:-1,UK: Sky Sport News
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/416
+#EXTINF:-1,VIP UK: Sky Sport News FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30338
+#EXTINF:-1,UK: Sky Sports News HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1624
+#EXTINF:-1,VIP UK: Sky Sport Mix FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30339
+#EXTINF:-1,VIP UK: Sky Sport Mix HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/28990
+#EXTINF:-1,UK: Sky Sports MIX
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7608
+#EXTINF:-1,VIP UK: Sky Sport Red Button 01 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26214
+#EXTINF:-1,VIP UK: Sky Sport Red Button 02 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26213
+#EXTINF:-1,VIP UK: Sky Sport Red Button 03 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26212
+#EXTINF:-1,VIP UK: Sky Sport Red Button 04 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26211
+#EXTINF:-1,VIP UK: Sky Sport Red Button 05 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26210
+#EXTINF:-1,VIP UK: Sky Sport Red Button 06 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26209
+#EXTINF:-1,VIP UK: Sky Sport Red Button 07 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26208
+#EXTINF:-1,VIP UK: Sky Sport Red Button 08 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26207
+#EXTINF:-1,VIP UK: Sky Sport Red Button 09 [Live Dur
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26206
+#EXTINF:-1,VIP UK: Sky Sport Golf FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30343
+#EXTINF:-1,VIP UK: Sky Sport F1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30345
+#EXTINF:-1,VIP UK: Sky Sport Cricket FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30346
+#EXTINF:-1,VIP UK: Sky Sport Cricket HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8173
+#EXTINF:-1,VIP UK: Sky Sport NHL HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8174
+#EXTINF:-1,VIP UK: Sky Sport Golf HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8175
+#EXTINF:-1,VIP UK: Sky Sport F1 HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8177
+#EXTINF:-1,UK: Sky Sport Cricket
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/258
+#EXTINF:-1,UK: Sky Sport NHL
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/257
+#EXTINF:-1,UK: Sky Sport Golf
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/256
+#EXTINF:-1,UK: Sky Sport F1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/253
+#EXTINF:-1,UK: Sky Sport Cricket HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6681
+#EXTINF:-1,UK: Sky Sport NHL HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6682
+#EXTINF:-1,UK: Sky Sport Golf HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6683
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6685
+#EXTINF:-1 group-title="BT",VIP UK: BT Sports 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/60877
+#EXTINF:-1,UK: BT Sports 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1641
+#EXTINF:-1,UK: BT Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/374
+#EXTINF:-1,VIP UK: BT Sports 1 HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8178
+#EXTINF:-1,UK: BT Sports 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2512
+#EXTINF:-1,UK: BT Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/375
+#EXTINF:-1,VIP UK: BT Sports 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/60878
+#EXTINF:-1,VIP UK: BT Sports 2 HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8179
+#EXTINF:-1,UK: BT Sports 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2513
+#EXTINF:-1,UK: BT Sport 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1282
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/587
+#EXTINF:-1,VIP UK: BT Sports 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/60879
+#EXTINF:-1,VIP UK: BT Sports 3 HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8180
+#EXTINF:-1,VIP UK: BT Sports ESPN FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/60880
+#EXTINF:-1,VIP UK: BT Sports ESPN HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20199
+#EXTINF:-1,UK: BT Sport Extra 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7610
+#EXTINF:-1,UK: BT Sport Extra 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7611
+#EXTINF:-1,UK: BT Sport Extra 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7612
+#EXTINF:-1,UK: BT Sport Extra 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7613
+#EXTINF:-1,UK: BT Sport Extra
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1247
+#EXTINF:-1,UK: BT Sport Mosaic
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7609
+#EXTINF:-1,VIP UK: Eurosport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/66149
+#EXTINF:-1,VIP UK: Eurosport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/66148
+#EXTINF:-1,VIP UK: EIR SPORTS 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30526
+#EXTINF:-1,VIP UK: EIR SPORTS 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30527
+#EXTINF:-1,VIP UK: ELEVEN SPORT 1 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18770
+#EXTINF:-1,VIP UK: Premier Sports 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22620
+#EXTINF:-1,VIP UK: Premier Sports 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30440
+#EXTINF:-1,VIP UK: Free Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16288
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3045
+#EXTINF:-1,UK: Box Nation HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17004
+#EXTINF:-1,UK: EuroSport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1634
+#EXTINF:-1,UK: EuroSport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1633
+#EXTINF:-1,UK: Free Sports
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12505
+#EXTINF:-1 group-title="BEIN",VIP AR: Bein Sport FHD11 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65028
+#EXTINF:-1,VIP AR: Bein Sport HD11 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65040
+#EXTINF:-1,VIP AR: Bein Sport HD11 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26463
+#EXTINF:-1,VIP AR: Bein Sport HD11 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11601
+#EXTINF:-1,VIP AR: Bein Sport SD11
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1178
+#EXTINF:-1,VIP AR: Bein Sport HD11 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13660
+#EXTINF:-1,AR: Bein Sport 11HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2745
+#EXTINF:-1,AR: Bein Sport 12HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2746
+#EXTINF:-1,VIP AR: Bein Sport FHD12 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65029
+#EXTINF:-1,VIP AR: Bein Sport HD12 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65041
+#EXTINF:-1,VIP AR: Bein Sport HD12 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13661
+#EXTINF:-1,VIP AR: Bein Sport HD12 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26464
+#EXTINF:-1,VIP AR: Bein Sport HD12 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11600
+#EXTINF:-1,VIP AR: Bein Sport SD12
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1177
+#EXTINF:-1,VIP AR: Bein Sport HD13 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18785
+#EXTINF:-1,VIP AR: Bein Sport HD13 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26465
+#EXTINF:-1,VIP AR: Bein Sport HD13 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11603
+#EXTINF:-1,VIP AR: Bein Sport HD14 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18824
+#EXTINF:-1,VIP AR: Bein Sport HD14 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15599
+#EXTINF:-1,VIP AR: Bein Sport HD15 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18825
+#EXTINF:-1,VIP AR: Bein Sport HD15 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15598
+#EXTINF:-1,VIP AR: Bein Sport HD16 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18826
+#EXTINF:-1,VIP AR: Bein Sport HD16 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15597
+#EXTINF:-1,VIP AR: Bein Sport HD17 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18827
+#EXTINF:-1,VIP AR: Bein Sport HD17 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15596
+#EXTINF:-1,VIP AR: Bein Sport 4K UHD 25M [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34638
+#EXTINF:-1,VIP AR: Bein Sport FHD1 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65018
+#EXTINF:-1,VIP AR: Bein Sport FHD2 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65019
+#EXTINF:-1,VIP AR: Bein Sport FHD3 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65020
+#EXTINF:-1,VIP AR: Bein Sport FHD4 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65021
+#EXTINF:-1,VIP AR: Bein Sport FHD5 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65022
+#EXTINF:-1,VIP AR: Bein Sport FHD6 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65023
+#EXTINF:-1,VIP AR: Bein Sport FHD7 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65024
+#EXTINF:-1,VIP AR: Bein Sport FHD8 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65025
+#EXTINF:-1,VIP AR: Bein Sport FHD9 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65026
+#EXTINF:-1,VIP AR: Bein Sport FHD10 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65027
+#EXTINF:-1,VIP AR: Bein Sport HD1 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65030
+#EXTINF:-1,VIP AR: Bein Sport HD2 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65031
+#EXTINF:-1,VIP AR: Bein Sport HD3 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65032
+#EXTINF:-1,VIP AR: Bein Sport HD4 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65033
+#EXTINF:-1,VIP AR: Bein Sport HD5 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65034
+#EXTINF:-1,VIP AR: Bein Sport HD6 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65035
+#EXTINF:-1,VIP AR: Bein Sport HD7 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65036
+#EXTINF:-1,VIP AR: Bein Sport HD8 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65037
+#EXTINF:-1,VIP AR: Bein Sport HD9 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65038
+#EXTINF:-1,VIP AR: Bein Sport HD10 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65039
+#EXTINF:-1,VIP AR: Bein Sport HD1 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13800
+#EXTINF:-1,VIP AR: Bein Sport HD2 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13799
+#EXTINF:-1,VIP AR: Bein Sport HD3 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13798
+#EXTINF:-1,VIP AR: Bein Sport HD4 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13797
+#EXTINF:-1,VIP AR: Bein Sport HD5 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13796
+#EXTINF:-1,VIP AR: Bein Sport HD6 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13795
+#EXTINF:-1,VIP AR: Bein Sport HD7 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13794
+#EXTINF:-1,VIP AR: Bein Sport HD8 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13793
+#EXTINF:-1,VIP AR: Bein Sport HD9 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13792
+#EXTINF:-1,VIP AR: Bein Sport HD10 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13791
+#EXTINF:-1,VIP AR: Bein Sport NBA 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18828
+#EXTINF:-1,VIP AR: Bein Sport HD1 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15595
+#EXTINF:-1,VIP AR: Bein Sport HD2 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15594
+#EXTINF:-1,VIP AR: Bein Sport HD3 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15593
+#EXTINF:-1,VIP AR: Bein Sport HD4 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15592
+#EXTINF:-1,VIP AR: Bein Sport HD5 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15591
+#EXTINF:-1,VIP AR: Bein Sport HD6 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15590
+#EXTINF:-1,VIP AR: Bein Sport HD7 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15589
+#EXTINF:-1,VIP AR: Bein Sport HD8 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15588
+#EXTINF:-1,VIP AR: Bein Sport HD9 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21378
+#EXTINF:-1,VIP AR: Bein Sport HD10 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21379
+#EXTINF:-1,VIP AR: Bein Sport FHD1 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33310
+#EXTINF:-1,VIP AR: Bein Sport FHD2 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33309
+#EXTINF:-1,VIP AR: Bein Sport FHD3 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33308
+#EXTINF:-1,VIP AR: Bein Sport FHD4 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33307
+#EXTINF:-1,VIP AR: Bein Sport FHD5 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33306
+#EXTINF:-1,VIP AR: Bein Sport FHD6 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33305
+#EXTINF:-1,VIP AR: Bein Sport FHD7 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33304
+#EXTINF:-1,VIP AR: Bein Sport FHD8 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33303
+#EXTINF:-1,VIP AR: Bein Sport FHD9 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33302
+#EXTINF:-1,VIP AR: Bein Sport FHD10 HEVC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33301
+#EXTINF:-1,VIP AR: Bein Sport FHD1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25965
+#EXTINF:-1,VIP AR: Bein Sport FHD2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25964
+#EXTINF:-1,VIP AR: Bein Sport FHD3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25963
+#EXTINF:-1,VIP AR: Bein Sport FHD4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25962
+#EXTINF:-1,VIP AR: Bein Sport FHD5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25961
+#EXTINF:-1,VIP AR: Bein Sport FHD6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25960
+#EXTINF:-1,VIP AR: Bein Sport FHD7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25959
+#EXTINF:-1,VIP AR: Bein Sport FHD8
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25958
+#EXTINF:-1,VIP AR: Bein Sport FHD9
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25957
+#EXTINF:-1,VIP AR: Bein Sport FHD10
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25956
+#EXTINF:-1,VIP AR: Bein Sport HD1 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20735
+#EXTINF:-1,VIP AR: Bein Sport HD2 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20734
+#EXTINF:-1,VIP AR: Bein Sport HD3 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20733
+#EXTINF:-1,VIP AR: Bein Sport HD4 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20732
+#EXTINF:-1,VIP AR: Bein Sport HD5 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20731
+#EXTINF:-1,VIP AR: Bein Sport HD6 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20730
+#EXTINF:-1,VIP AR: Bein Sport HD7 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20729
+#EXTINF:-1,VIP AR: Bein Sport HD8 H265 P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20728
+#EXTINF:-1,VIP AR: Bein Sport HD1 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20276
+#EXTINF:-1,VIP AR: Bein Sport HD2 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20275
+#EXTINF:-1,VIP AR: Bein Sport HD3 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20274
+#EXTINF:-1,VIP AR: Bein Sport HD4 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20273
+#EXTINF:-1,VIP AR: Bein Sport HD5 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20272
+#EXTINF:-1,VIP AR: Bein Sport HD6 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20271
+#EXTINF:-1,VIP AR: Bein Sport HD7 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20270
+#EXTINF:-1,VIP AR: Bein Sport HD8 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20269
+#EXTINF:-1,VIP AR: Bein Sport HD9 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20267
+#EXTINF:-1,VIP AR: Bein Sport HD10 1080P50
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20268
+#EXTINF:-1,VIP AR: Bein Sport HD1 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10272
+#EXTINF:-1,VIP AR: Bein Sport HD2 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10271
+#EXTINF:-1,VIP AR: Bein Sport HD3 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10270
+#EXTINF:-1,VIP AR: Bein Sport HD4 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10269
+#EXTINF:-1,VIP AR: Bein Sport HD5 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10268
+#EXTINF:-1,VIP AR: Bein Sport HD6 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10267
+#EXTINF:-1,VIP AR: Bein Sport HD7 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10266
+#EXTINF:-1,VIP AR: Bein Sport HD8 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10265
+#EXTINF:-1,VIP AR: Bein Sport HD9 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10264
+#EXTINF:-1,VIP AR: Bein Sport HD10 BKUP1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10263
+#EXTINF:-1,VIP AR: Bein Sport HD1 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11612
+#EXTINF:-1,VIP AR: Bein Sport HD2 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11611
+#EXTINF:-1,VIP AR: Bein Sport HD3 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11610
+#EXTINF:-1,VIP AR: Bein Sport HD4 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11609
+#EXTINF:-1,VIP AR: Bein Sport HD5 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11608
+#EXTINF:-1,VIP AR: Bein Sport HD6 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11607
+#EXTINF:-1,VIP AR: Bein Sport HD7 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11606
+#EXTINF:-1,VIP AR: Bein Sport HD8 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11605
+#EXTINF:-1,VIP AR: Bein Sport HD9 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11604
+#EXTINF:-1,VIP AR: Bein Sport HD10 BKUP2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11602
+#EXTINF:-1,VIP AR: Bein Sport SD1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1188
+#EXTINF:-1,VIP AR: Bein Sport SD2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1187
+#EXTINF:-1,VIP AR: Bein Sport SD3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1186
+#EXTINF:-1,VIP AR: Bein Sport SD4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1185
+#EXTINF:-1,VIP AR: Bein Sport SD5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1184
+#EXTINF:-1,VIP AR: Bein Sport SD6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1183
+#EXTINF:-1,VIP AR: Bein Sport SD7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1182
+#EXTINF:-1,VIP AR: Bein Sport SD8
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1181
+#EXTINF:-1,VIP AR: Bein Sport SD9
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1180
+#EXTINF:-1,VIP AR: Bein Sport SD10
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1179
+#EXTINF:-1,AR: Bein Sport 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6872
+#EXTINF:-1,AR: Bein Sport 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6871
+#EXTINF:-1,AR: Bein Sport 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6870
+#EXTINF:-1,AR: Bein Sport 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6869
+#EXTINF:-1,AR: Bein Sport 5HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6868
+#EXTINF:-1,AR: Bein Sport 6HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6867
+#EXTINF:-1,AR: Bein Sport 7HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6866
+#EXTINF:-1,AR: Bein Sport 8HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6865
+#EXTINF:-1,AR: Bein Sport 9HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6864
+#EXTINF:-1,AR: Bein Sport 10HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6863
+#EXTINF:-1 group-title="NBCSN",VIP US: NBCSN HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7685
+#EXTINF:-1,VIP US: NBCSN Gold HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15529
+#EXTINF:-1,VIP US: NBC Gold PL 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15783
+#EXTINF:-1,VIP US: NBC Gold PL 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15785
+#EXTINF:-1,VIP US: NBC Gold PL 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15786
+#EXTINF:-1,VIP US: NBC Gold PL 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15787
+#EXTINF:-1,VIP US: NBC Gold PL 5HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15788
+#EXTINF:-1,VIP US: NBC Gold PL 6HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15789
+#EXTINF:-1,VIP US: NBC Gold PL 7HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17858
+#EXTINF:-1,VIP US: NBC Gold PL 8HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17859
+#EXTINF:-1,VIP US: NBC Gold PL 9HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17860
+#EXTINF:-1,VIP US: NBC Gold PL 10HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17861
+#EXTINF:-1,US: NBC SPORT
+#EXTVLCOPT:program=1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2864
+#EXTINF:-1 group-title="SUPERSPORT",VIP ZA: SuperSport Premier League FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29941
+#EXTINF:-1,VIP ZA: SuperSport Grandstand FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29940
+#EXTINF:-1,VIP ZA: SuperSport Football FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29936
+#EXTINF:-1,VIP ZA: SuperSport Football Plus FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33608
+#EXTINF:-1,VIP ZA: SuperSport MáXimo FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29929
+#EXTINF:-1,VIP ZA: SuperSport Variety 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29934
+#EXTINF:-1,VIP ZA: SuperSport PSL FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29942
+#EXTINF:-1,VIP ZA: SuperSport Blitz FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29930
+#EXTINF:-1,VIP ZA: SuperSport Rugby FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29933
+#EXTINF:-1,VIP ZA: SuperSport Cricket FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29932
+#EXTINF:-1,VIP ZA: SuperSport La Liga FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29943
+#EXTINF:-1,VIP ZA: SuperSport Play FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29935
+#EXTINF:-1,VIP ZA: SuperSport Action FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29937
+#EXTINF:-1,VIP ZA: SuperSport Motorsport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/51416
+#EXTINF:-1,VIP ZA: SuperSport Golf FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33649
+#EXTINF:-1,VIP ZA: SuperSport Tennis FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33610
+#EXTINF:-1,VIP ZA: SuperSport Variety 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29938
+#EXTINF:-1,VIP ZA: SuperSport Variety 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29939
+#EXTINF:-1,VIP ZA: SuperSport Variety 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33609
+#EXTINF:-1 group-title="RUSH",VIP JM: RUSH Sports EPL HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20250
+#EXTINF:-1,VIP JM: RUSH Sports 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20249
+#EXTINF:-1,VIP JM: RUSH Sports 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20248
+#EXTINF:-1,VIP JM: RUSH Sports 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20247
+#EXTINF:-1,VIP JM: RUSH Sports 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20246
+#EXTINF:-1,VIP JM: RUSH Sports 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20251
+#EXTINF:-1 group-title="DAZN",VIP DE: DAZN Bar 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63982
+#EXTINF:-1,VIP DE: DAZN Bar 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18763
+#EXTINF:-1,VIP DE: DAZN Bar 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63983
+#EXTINF:-1,VIP DE: DAZN Bar 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18764
+#EXTINF:-1,VIP CAN: DAZN 1 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32890
+#EXTINF:-1,VIP CAN: DAZN 2 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32891
+#EXTINF:-1,VIP CAN: DAZN 3 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32892
+#EXTINF:-1,VIP CAN: DAZN 4 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32893
+#EXTINF:-1,VIP CAN: DAZN 5 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32894
+#EXTINF:-1,VIP CAN: DAZN 6 Canada HD ( Only During Events )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/32895
+#EXTINF:-1,VIP ES: DAZN BAR 1 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63909
+#EXTINF:-1,VIP ES: DAZN BAR 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64222
+#EXTINF:-1,VIP ES: DAZN BAR 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23016
+#EXTINF:-1,VIP ES: DAZN BAR 2 H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63910
+#EXTINF:-1,VIP ES: DAZN BAR 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64223
+#EXTINF:-1,VIP ES: DAZN BAR 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26568
+#EXTINF:-1,VIP ES: Dazn 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63104
+#EXTINF:-1,VIP ES: Dazn 1 HD (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63102
+#EXTINF:-1,VIP ES: Dazn 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63105
+#EXTINF:-1,VIP ES: Dazn 2 HD (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63103
+#EXTINF:-1,VIP ES: Dazn 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63106
+#EXTINF:-1,VIP ES: Dazn 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63107
+#EXTINF:-1,VIP ES: Dazn HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63100
+#EXTINF:-1,VIP ES: Dazn HD 24/7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63099
+#EXTINF:-1,VIP ES: Dazn (Pruebas)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63101
+#EXTINF:-1,VIP ES: Dazn & Footters 01 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63108
+#EXTINF:-1,VIP ES: Dazn & Footters 02 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63109
+#EXTINF:-1,VIP ES: Dazn & Footters 03 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63110
+#EXTINF:-1,VIP ES: Dazn & Footters 04 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63111
+#EXTINF:-1,VIP ES: Dazn & Footters 05 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63112
+#EXTINF:-1,VIP ES: Dazn & Footters 06 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63113
+#EXTINF:-1,VIP ES: Dazn & Footters 07 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63114
+#EXTINF:-1,VIP ES: Dazn & Footters 08 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63115
+#EXTINF:-1,VIP ES: Dazn & Footters 09 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63116
+#EXTINF:-1,VIP ES: Dazn & Footters 10 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63117
+#EXTINF:-1,VIP ES: Dazn & Footters 11 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63118
+#EXTINF:-1,VIP ES: Dazn & Footters 12 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63119
+#EXTINF:-1,VIP ES: Dazn & Footters 13 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63120
+#EXTINF:-1,VIP ES: Dazn & Footters 14 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63121
+#EXTINF:-1,VIP ES: Dazn & Footters 15 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63122
+#EXTINF:-1,VIP ES: Dazn & Footters 16 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63123
+#EXTINF:-1,VIP ES: Dazn & Footters 17 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63124
+#EXTINF:-1,VIP ES: Dazn & Footters 18 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63125
+#EXTINF:-1,VIP ES: Dazn & Footters 19 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63126
+#EXTINF:-1,VIP ES: Dazn & Footters 20 (Eventos)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63127
+#EXTINF:-1 group-title="EFL",VIP UK: Ifollow EFL 1 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26199
+#EXTINF:-1,VIP UK: Ifollow EFL 2 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26198
+#EXTINF:-1,VIP UK: Ifollow EFL 3 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26197
+#EXTINF:-1,VIP UK: Ifollow EFL 4 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26196
+#EXTINF:-1,VIP UK: Ifollow EFL 5 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26195
+#EXTINF:-1,VIP UK: Ifollow EFL 6 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26194
+#EXTINF:-1,VIP UK: Ifollow EFL 7 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26193
+#EXTINF:-1,VIP UK: Ifollow EFL 8 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26192
+#EXTINF:-1,VIP UK: Ifollow EFL 9 HD [Live During Eve
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26191
+#EXTINF:-1,VIP UK: Ifollow EFL 10 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26190
+#EXTINF:-1,VIP UK: Ifollow EFL 11 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26189
+#EXTINF:-1,VIP UK: Ifollow EFL 12 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26188
+#EXTINF:-1,VIP UK: Ifollow EFL 13 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26187
+#EXTINF:-1,VIP UK: Ifollow EFL 14 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30631
+#EXTINF:-1,VIP UK: Ifollow EFL 15 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30632
+#EXTINF:-1,VIP UK: Ifollow EFL 16 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30633
+#EXTINF:-1,VIP UK: Ifollow EFL 17 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55994
+#EXTINF:-1,VIP UK: Ifollow EFL 18 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55995
+#EXTINF:-1,VIP UK: Ifollow EFL 19 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55996
+#EXTINF:-1,VIP UK: Ifollow EFL 20 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55997
+#EXTINF:-1,VIP UK: Ifollow EFL 21 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55998
+#EXTINF:-1,VIP UK: Ifollow EFL 22 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55999
+#EXTINF:-1,VIP UK: Ifollow EFL 23 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/56000
+#EXTINF:-1,VIP UK: Ifollow EFL 24 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/56001
+#EXTINF:-1,VIP UK: Ifollow EFL 25 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/56002
+#EXTINF:-1,VIP UK: Ifollow EFL 26 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/56003
+#EXTINF:-1,VIP UK: Ifollow EFL 27 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/56004
+#EXTINF:-1,VIP UK: Ifollow EFL 28 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65759
+#EXTINF:-1,VIP UK: Ifollow EFL 29 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65760
+#EXTINF:-1,VIP UK: Ifollow EFL 30 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65761
+#EXTINF:-1,VIP UK: Ifollow EFL 31 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65762
+#EXTINF:-1,VIP UK: Ifollow EFL 32 HD [Live During Ev
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65763
+#EXTINF:-1,VIP UK: SPFL 1 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34646
+#EXTINF:-1,VIP UK: SPFL 2 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34647
+#EXTINF:-1,VIP UK: SPFL 3 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34648
+#EXTINF:-1,VIP UK: SPFL 4 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34649
+#EXTINF:-1,VIP UK: SPFL 5 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34650
+#EXTINF:-1,VIP UK: SPFL 6 HD [Live During Events Onl
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34651
+#EXTINF:-1 group-title="Live: France",VIP FR: RMC SPORT 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23126
+#EXTINF:-1,VIP FR: RMC SPORT 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7285
+#EXTINF:-1,VIP FR: RMC SPORT 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23125
+#EXTINF:-1,VIP FR: RMC SPORT 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7286
+#EXTINF:-1,VIP FR: RMC SPORT 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23124
+#EXTINF:-1,VIP FR: RMC SPORT 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7427
+#EXTINF:-1,VIP FR: RMC SPORT 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23123
+#EXTINF:-1,VIP FR: RMC SPORT 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7504
+#EXTINF:-1,VIP FR: RMC SPORT Accees 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19425
+#EXTINF:-1,VIP FR: RMC SPORT Accees 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23795
+#EXTINF:-1,VIP FR: RMC SPORT Accees 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23794
+#EXTINF:-1,VIP FR: RMC Sport 5 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19366
+#EXTINF:-1,VIP FR: RMC Sport 6 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19365
+#EXTINF:-1,VIP FR: RMC Sport 7 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19364
+#EXTINF:-1,VIP FR: RMC Sport 8 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19363
+#EXTINF:-1,VIP FR: RMC Sport 9 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19362
+#EXTINF:-1,VIP FR: RMC Sport 10 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19361
+#EXTINF:-1,VIP FR: RMC Sport 11 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19360
+#EXTINF:-1,VIP FR: RMC Sport 12 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19359
+#EXTINF:-1,VIP FR: RMC Sport 13 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20383
+#EXTINF:-1,VIP FR: RMC Sport 14 HD Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20384
+#EXTINF:-1 group-title="Live: Germany & Austria",VIP DE: Sky Sport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31051
+#EXTINF:-1,VIP DE: Sky Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14127
+#EXTINF:-1,VIP DE: Sky Sport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31061
+#EXTINF:-1,VIP DE: Sky Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14126
+#EXTINF:-1,VIP DE: Sky Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14125
+#EXTINF:-1,VIP DE: Sky Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14124
+#EXTINF:-1,VIP DE: Sky Sport 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14123
+#EXTINF:-1,VIP DE: Sky Sport 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14122
+#EXTINF:-1,VIP DE: Sky Sport 7 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14121
+#EXTINF:-1,VIP DE: Sky Sport 8 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14120
+#EXTINF:-1,VIP DE: Sky Sport 9 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14119
+#EXTINF:-1,VIP DE: Sky Sport 10 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14118
+#EXTINF:-1,VIP DE: Sky Sport 11 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14117
+#EXTINF:-1,VIP AT: Sky Sports Austria 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/36107
+#EXTINF:-1,VIP AT: Sky Sports Austria 2 FHD ( Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/36108
+#EXTINF:-1,VIP AT: Sky Sports Austria 3 FHD ( Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/36109
+#EXTINF:-1,VIP AT: Sky Sports Austria 4 FHD ( Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/36110
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31062
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11475
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 2 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9182
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 3 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9181
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 4 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9180
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 5 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9179
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 6 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9178
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 7 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9177
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 8 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9176
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 9 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9175
+#EXTINF:-1,VIP DE: Sky Sport Bundesliga 10 HD(Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9174
+#EXTINF:-1,VIP DE: BBL Sport 1 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25793
+#EXTINF:-1,VIP DE: BBL Sport 2 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25792
+#EXTINF:-1,VIP DE: BBL Sport 3 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25791
+#EXTINF:-1,VIP DE: BBL Sport 4 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25790
+#EXTINF:-1,VIP DE: DEL Sport 1 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25789
+#EXTINF:-1,VIP DE: DEL Sport 2 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25788
+#EXTINF:-1,VIP DE: DEL Sport 3 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25787
+#EXTINF:-1,VIP DE: DEL Sport 4 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25786
+#EXTINF:-1,VIP DE: DEL Sport 5 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25785
+#EXTINF:-1,VIP DE: DEL Sport 6 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25784
+#EXTINF:-1,VIP DE: DEL Sport 7 (ONLY ON MATCHDAY)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25783
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/539
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1344
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1343
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1342
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1341
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1340
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1339
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1338
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1337
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1345
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/121
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/540
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7487
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1333
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1332
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1331
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1330
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1329
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1328
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1335
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1334
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/122
+#EXTINF:-1 group-title="Live: Portugal",PT: Sport TV1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6494
+#EXTINF:-1,PT: Sport TV2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6495
+#EXTINF:-1,PT: Sport TV3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6496
+#EXTINF:-1,PT: Sport TV4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6497
+#EXTINF:-1,PT: Sport TV5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6498
+#EXTINF:-1,PT: Sport TV+
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/42099
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16056
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16055
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16054
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16053
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16052
+#EXTINF:-1,PT: SPORT TV+FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16057
+#EXTINF:-1 group-title="Live: Netherland",NL: ESPN 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6879
+#EXTINF:-1,NL: ESPN 1 SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4116
+#EXTINF:-1,NL: ESPN 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1650
+#EXTINF:-1,NL: ESPN 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/482
+#EXTINF:-1,NL: ESPN 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4123
+#EXTINF:-1,NL: ESPN 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/483
+#EXTINF:-1,NL: ESPN 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9576
+#EXTINF:-1,NL: ESPN 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/484
+#EXTINF:-1,NL: ESPN 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9945
+#EXTINF:-1,NL: ESPN 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/485
+#EXTINF:-1,NL: ESPN 5 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9946
+#EXTINF:-1,NL: ESPN 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/486
+#EXTINF:-1,NL: ESPN 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1144
+#EXTINF:-1,NL: ESPN 6 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14608
+#EXTINF:-1,NL: Ziggo Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14599
+#EXTINF:-1,NL: Ziggo sport Select FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4122
+#EXTINF:-1,NL: Ziggo Sport Voetbal FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9765
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/896
+#EXTINF:-1,NL: Ziggo Sport Extra FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2372
+#EXTINF:-1 group-title="Live: Romania",VIP RO: Digi Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20522
+#EXTINF:-1,VIP RO: Digi Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20521
+#EXTINF:-1,VIP RO: Digi Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20520
+#EXTINF:-1,VIP RO: Digi Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20519
+#EXTINF:-1,VIP RO: Eurosport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20524
+#EXTINF:-1,VIP RO: Eurosport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20523
+#EXTINF:-1,VIP RO: Look Plus HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20525
+#EXTINF:-1,VIP RO: Look Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20526
+#EXTINF:-1,VIP RO: Look Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/41572
+#EXTINF:-1,VIP RO: Look Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/41573
+#EXTINF:-1,VIP RO: Telekom Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20518
+#EXTINF:-1,VIP RO: Telekom Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20517
+#EXTINF:-1,VIP RO: Telekom Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20516
+#EXTINF:-1,VIP RO: Telekom Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20515
+#EXTINF:-1,RO: Digi Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2901
+#EXTINF:-1,RO: Digi Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2902
+#EXTINF:-1,RO: Digi Sport 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2903
+#EXTINF:-1,RO: Digi Sport 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2904
+#EXTINF:-1,RO: Eurosport
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2897
+#EXTINF:-1,RO: Eurosport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2898
+#EXTINF:-1 group-title="Live: Bulgaria",BG: Max Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14936
+#EXTINF:-1,BG: Max Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14937
+#EXTINF:-1,BG: Max Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20341
+#EXTINF:-1,BG: Max Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26353
+#EXTINF:-1,BG: Diema Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/40770
+#EXTINF:-1,BG: Diema Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3281
+#EXTINF:-1,BG: Diema Sport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/40769
+#EXTINF:-1,BG: Diema Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3280
+#EXTINF:-1,BG: Trace Sport Stars HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26547
+#EXTINF:-1 group-title="Live: Switzerland",SW: Teleclub Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4506
+#EXTINF:-1,SW: Teleclub Sport 1 SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4505
+#EXTINF:-1,SW: Teleclub Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4508
+#EXTINF:-1,SW: Teleclub Sport 2 SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4507
+#EXTINF:-1,SW: Teleclub Emotion SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4503
+#EXTINF:-1,SW: Teleclub Cinema SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4501
+#EXTINF:-1,SW: Teleclub Cinema SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4499
+#EXTINF:-1,VIP SW: MYSports Basic FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13958
+#EXTINF:-1,VIP SW: MYSports 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16923
+#EXTINF:-1,VIP SW: MYSports 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15334
+#EXTINF:-1,VIP SW: MYSports 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15335
+#EXTINF:-1,VIP SW: MYSports 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15336
+#EXTINF:-1,VIP SW: MYSports 5HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15337
+#EXTINF:-1,VIP SW: MYSports 6HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15338
+#EXTINF:-1,VIP SW: MYSports HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15349
+#EXTINF:-1,VIP SW: MYSports 1HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17273
+#EXTINF:-1,VIP SW: MYSports 2HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17272
+#EXTINF:-1,VIP SW: MYSports 3HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17271
+#EXTINF:-1,VIP SW: MYSports 4HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17270
+#EXTINF:-1,VIP SW: MYSports 5HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17269
+#EXTINF:-1,VIP SW: MYSports 6HD FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17268
+#EXTINF:-1,VIP SW: Blue Sport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9172
+#EXTINF:-1,VIP SW: Blue Sport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9171
+#EXTINF:-1,VIP SW: Blue Sport Event 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/40244
+#EXTINF:-1,VIP SW: Blue Sport Event 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/40233
+#EXTINF:-1 group-title="Live: Hebrew",VIP IL: YES SPORT1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20415
+#EXTINF:-1,VIP IL: YES SPORT1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5958
+#EXTINF:-1,VIP IL: YES SPORT2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21901
+#EXTINF:-1,VIP IL: YES SPORT2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5957
+#EXTINF:-1,VIP IL: YES SPORT3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21899
+#EXTINF:-1,VIP IL: YES SPORT3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11471
+#EXTINF:-1,VIP IL: YES SPORT4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21900
+#EXTINF:-1,VIP IL: YES SPORT4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11472
+#EXTINF:-1,VIP IL: Sport 5 4K
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/50637
+#EXTINF:-1,VIP IL: Sport 5 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20416
+#EXTINF:-1,VIP IL: Sport 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19813
+#EXTINF:-1,VIP IL: Sport 5 SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/41502
+#EXTINF:-1,VIP IL: Sport 5+ Live FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25825
+#EXTINF:-1,VIP IL: Sport 5+ Live HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16521
+#EXTINF:-1,VIP IL: Sport 5+ Stars FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5955
+#EXTINF:-1,VIP IL: Sport 5+ Stars HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25826
+#EXTINF:-1,VIP IL: Sport 5 Plus FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22315
+#EXTINF:-1,VIP IL: Sport 5 Plus
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12823
+#EXTINF:-1,VIP IL: Sport 5 Gold
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11725
+#EXTINF:-1 group-title="Live: Sweden",VIP SE: C More Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7288
+#EXTINF:-1,VIP SE: C More Fotboll HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4282
+#EXTINF:-1,VIP SE: C More Fotboll HD (B)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27930
+#EXTINF:-1,VIP SE: C More Live FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29631
+#EXTINF:-1,VIP SE: C More Live HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7292
+#EXTINF:-1,VIP SE: C More Live 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2941
+#EXTINF:-1,VIP SE: C More Live 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2942
+#EXTINF:-1,VIP SE: C More Live 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2943
+#EXTINF:-1,VIP SE: C More Live 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19394
+#EXTINF:-1,VIP SE: Eurosport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22543
+#EXTINF:-1,VIP SE: Eurosport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22544
+#EXTINF:-1,VIP SE: EUROSPORT 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7290
+#EXTINF:-1,VIP SE: EUROSPORT 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7291
+#EXTINF:-1,VIP SE: V Sport Premium FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/28993
+#EXTINF:-1,VIP SE: V Sport Premium HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7170
+#EXTINF:-1,VIP SE: V Sport Premium SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9017
+#EXTINF:-1,VIP SE: V Fotboll FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/28994
+#EXTINF:-1,VIP SE: V Fotboll HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4103
+#EXTINF:-1,VIP SE: V Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4102
+#EXTINF:-1,VIP SE: V Sport Extra HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7365
+#EXTINF:-1,VIP SE: V Fight Sports HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14153
+#EXTINF:-1,VIP SE: Sportkanalen HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16803
+#EXTINF:-1,VIP SE: Sportkanalen FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16261
+#EXTINF:-1,VIP SE: Strive Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25914
+#EXTINF:-1,VIP SE: Sport Expressen TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/41089
+#EXTINF:-1,VIP SE: Strive Sport Extra 1 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18798
+#EXTINF:-1,VIP SE: Strive Sport Extra 2 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18797
+#EXTINF:-1,VIP SE: Strive Sport Extra 3 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26045
+#EXTINF:-1,VIP SE: Strive Sport Extra 4 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26046
+#EXTINF:-1,VIP SE: Strive Sport Extra 5 HD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26047
+#EXTINF:-1,VIP SE: Speedway FHD ( During Games only )
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26048
+#EXTINF:-1,VIP SE: ViaPlay 1 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30049
+#EXTINF:-1,VIP SE: ViaPlay 2 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30050
+#EXTINF:-1,VIP SE: ViaPlay 3 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30730
+#EXTINF:-1,VIP SE: V Xtra 1 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26038
+#EXTINF:-1,VIP SE: V Xtra 2 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26039
+#EXTINF:-1,VIP SE: V Xtra 3 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26040
+#EXTINF:-1,VIP SE: V Xtra 4 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26041
+#EXTINF:-1,VIP SE: V Xtra 5 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26042
+#EXTINF:-1,VIP SE: V Xtra 6 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26043
+#EXTINF:-1,VIP SE: V Xtra 7 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26044
+#EXTINF:-1 group-title="Live: Finland",VIP FI: Liiga 1 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63462
+#EXTINF:-1,VIP FI: Liiga 2 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63463
+#EXTINF:-1,VIP FI: Liiga 3 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63464
+#EXTINF:-1,VIP FI: Liiga 4 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63465
+#EXTINF:-1,VIP FI: Liiga 5 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63466
+#EXTINF:-1,VIP FI: Liiga 6 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63459
+#EXTINF:-1,VIP FI: Liiga 7 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63461
+#EXTINF:-1,VIP FI: Cmore Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8186
+#EXTINF:-1,VIP FI: Cmore Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8187
+#EXTINF:-1,VIP FI: C More MAX FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26350
+#EXTINF:-1,VIP FI: C More MAX HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12760
+#EXTINF:-1,VIP FI: C More Max 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63460
+#EXTINF:-1,VIP FI: EUROSPORT 1HD [Multi-Aud]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23742
+#EXTINF:-1,VIP FI: EUROSPORT 2HD [Multi-Aud]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23743
+#EXTINF:-1 group-title="Live: Iceland",VIP IS: Eurosport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55534
+#EXTINF:-1,VIP IS: Eurosport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55533
+#EXTINF:-1,VIP IS: Siminn Sport UHD 4K
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55541
+#EXTINF:-1,VIP IS: Siminn Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55520
+#EXTINF:-1,VIP IS: Siminn Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55519
+#EXTINF:-1,VIP IS: Siminn Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30055
+#EXTINF:-1,VIP IS: Sjonvarp Simans Freemium HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55521
+#EXTINF:-1,VIP IS: Stöð 2 Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64374
+#EXTINF:-1,VIP IS: Stöð 2 Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64454
+#EXTINF:-1,VIP IS: Stöð 2 Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55513
+#EXTINF:-1,VIP IS: Stöð 2 Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/55514
+#EXTINF:-1,VIP IS: Stöð 2 eSport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/65280
+#EXTINF:-1 group-title="Live: Denmark",VIP DK: EuroSport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18039
+#EXTINF:-1,VIP DK: Eurosport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12763
+#EXTINF:-1,VIP DK: TV2 Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25933
+#EXTINF:-1,VIP DK: TV2 Sport X FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30595
+#EXTINF:-1,VIP DK: TV2 Sport X HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34821
+#EXTINF:-1,VIP DK: TV3 Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17550
+#EXTINF:-1,VIP DK: TV3 Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26096
+#EXTINF:-1,VIP DK: TV3 Sport SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26088
+#EXTINF:-1,VIP DK: TV3 Max FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1105
+#EXTINF:-1,VIP DK: TV3 Max SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25932
+#EXTINF:-1,VIP DK: Sport Live FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16937
+#EXTINF:-1 group-title="Live: Norway",VIP NO: TV2 Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20982
+#EXTINF:-1,VIP NO: TV2 Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7293
+#EXTINF:-1,VIP NO: TV2 Sport Premium FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21374
+#EXTINF:-1,VIP NO: TV2 Sport Premium HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20266
+#EXTINF:-1,VIP NO: TV2 Sport Premium 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20983
+#EXTINF:-1,VIP NO: TV2 Sport Premium 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64838
+#EXTINF:-1,VIP NO: V Sport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63879
+#EXTINF:-1,VIP NO: V Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20979
+#EXTINF:-1,VIP NO: V Sport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63880
+#EXTINF:-1,VIP NO: V Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20980
+#EXTINF:-1,VIP NO: V Sport 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63881
+#EXTINF:-1,VIP NO: V Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20981
+#EXTINF:-1,VIP NO: V Sport + FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63882
+#EXTINF:-1,VIP NO: V Sport + HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21323
+#EXTINF:-1,VIP NO: Eurosport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27990
+#EXTINF:-1,VIP NO: Eurosport Norge HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8335
+#EXTINF:-1,VIP NO: Eurosport Pluss 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12756
+#EXTINF:-1,VIP NO: Eurosport Pluss 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12757
+#EXTINF:-1,VIP NO: Eurosport Pluss 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12758
+#EXTINF:-1,VIP NO: Eurosport Pluss 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12759
+#EXTINF:-1,VIP NO: Eurosport Pluss 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27981
+#EXTINF:-1,VIP NO: Eurosport Pluss 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27980
+#EXTINF:-1,VIP NO: Eurosport Pluss 7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27979
+#EXTINF:-1,VIP NO: Eurosport Pluss 8
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27978
+#EXTINF:-1,VIP NO: Eurosport Pluss 9
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27977
+#EXTINF:-1,VIP NO: Eurosport Pluss 10
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27984
+#EXTINF:-1,VIP NO: Eurosport Pluss 11
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27983
+#EXTINF:-1,VIP NO: Eurosport Pluss 12
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27982
+#EXTINF:-1 group-title="Live: Türkiye",VIP TR: NTV SPOR 4K
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15277
+#EXTINF:-1,VIP TR: TRT Spor 4K
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15271
+#EXTINF:-1,VIP TR: Bein Sport Haber HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14792
+#EXTINF:-1,VIP TR: Bein Sport 1HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16292
+#EXTINF:-1,VIP TR: Bein Sport 2HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16291
+#EXTINF:-1,VIP TR: Bein Sport 3HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16290
+#EXTINF:-1,VIP TR: Bein Sport 4HD 1080P
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16289
+#EXTINF:-1,VIP TR: Bein Sports FHD1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25955
+#EXTINF:-1,VIP TR: Bein Sports FHD2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25954
+#EXTINF:-1,VIP TR: Bein Sports FHD3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25953
+#EXTINF:-1,VIP TR: Bein Sports FHD4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25952
+#EXTINF:-1,VIP TR: Bein Sport 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7333
+#EXTINF:-1,VIP TR: Bein Sport 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7334
+#EXTINF:-1,VIP TR: Bein Sport 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7335
+#EXTINF:-1,VIP TR: Bein Sport 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7336
+#EXTINF:-1,VIP TR: Bein Sport MAX 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9592
+#EXTINF:-1,VIP TR: Bein Sport MAX 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/9591
+#EXTINF:-1,VIP TR: TiviBu Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7337
+#EXTINF:-1,VIP TR: TiviBu Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7338
+#EXTINF:-1,VIP TR: TiviBu Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7421
+#EXTINF:-1,VIP TR: Smart Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7423
+#EXTINF:-1,VIP TR: Smart Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3753
+#EXTINF:-1,VIP TR: S sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11872
+#EXTINF:-1,VIP TR: S sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7422
+#EXTINF:-1,TR: Bein Sport HD1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4110
+#EXTINF:-1,TR: Bein Sport HD2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4111
+#EXTINF:-1,TR: Bein Sport HD3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4112
+#EXTINF:-1,TR: Bein Sport HD4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4113
+#EXTINF:-1,TR: Tivibu Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2269
+#EXTINF:-1,TR: Tivibu Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2285
+#EXTINF:-1,TR: SMART SPOR HD1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6092
+#EXTINF:-1,TR: S SPORT HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6093
+#EXTINF:-1,TR: TRT SPOR HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/371
+#EXTINF:-1,TR: TRT SPOR HD BKUP
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15248
+#EXTINF:-1,TR: EURO SPORT 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8047
+#EXTINF:-1,TR: EURO SPORT 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8048
+#EXTINF:-1 group-title="Live: Canada",VIP CAN: One Soccer 01 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33805
+#EXTINF:-1,VIP CAN: One Soccer 02 HD [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33806
+#EXTINF:-1,VIP CAN: One Soccer HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33804
+#EXTINF:-1,VIP CAN: SPORTSNET 360
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7703
+#EXTINF:-1,VIP CAN: SPORTSNET EAST
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7704
+#EXTINF:-1,VIP CAN: SPORTSNET ONE
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7705
+#EXTINF:-1,VIP CAN: SPORTSNET ONTARIO
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7706
+#EXTINF:-1,VIP CAN: SPORTSNET PACIFIC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7707
+#EXTINF:-1,VIP CAN: SPORTSNET PPV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22707
+#EXTINF:-1,VIP CAN: SPORTSNET WEST
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7708
+#EXTINF:-1,VIP CAN: SPORTSNET WORLD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7709
+#EXTINF:-1,VIP CAN: TSN 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22696
+#EXTINF:-1,VIP CAN: TSN 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22695
+#EXTINF:-1,VIP CAN: TSN 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22694
+#EXTINF:-1,VIP CAN: TSN 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22693
+#EXTINF:-1,VIP CAN: TSN 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22692
+#EXTINF:-1,VIP CAN: TVA Sports
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15294
+#EXTINF:-1,VIP CAN: TVA Sports 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33800
+#EXTINF:-1,CAN: TSN Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3046
+#EXTINF:-1,CAN: TSN Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3047
+#EXTINF:-1,CAN: TSN Sport 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3048
+#EXTINF:-1,CAN: TSN Sport 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3049
+#EXTINF:-1,CAN: TSN Sport 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3050
+#EXTINF:-1 group-title="Live: Greece & Cyprus",VIP GR: Nova Sports 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26481
+#EXTINF:-1,VIP GR: Nova Sports 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26482
+#EXTINF:-1,VIP GR: Nova Sports 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26483
+#EXTINF:-1,VIP GR: Nova Sports 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26484
+#EXTINF:-1,VIP GR: Nova Sports 5HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26485
+#EXTINF:-1,VIP GR: Cosmote Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22430
+#EXTINF:-1,VIP GR: Cosmote Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22429
+#EXTINF:-1,VIP GR: Cosmote Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22428
+#EXTINF:-1,VIP GR: Cosmote Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22427
+#EXTINF:-1,VIP GR: Cosmote Sport 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22426
+#EXTINF:-1,VIP GR: Cosmote Sport 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22425
+#EXTINF:-1,VIP GR: Cosmote Sport 7 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22424
+#EXTINF:-1,VIP GR: Cosmote Sport 8 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22423
+#EXTINF:-1,VIP GR: Cosmote Sport 9 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/27950
+#EXTINF:-1,VIP GR: OTE Sports 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12567
+#EXTINF:-1,VIP GR: OTE Sports 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12566
+#EXTINF:-1,VIP GR: OTE Sports 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12565
+#EXTINF:-1,VIP GR: OTE Sports 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12564
+#EXTINF:-1,VIP GR: OTE Sports 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12563
+#EXTINF:-1,VIP GR: OTE Sports 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12562
+#EXTINF:-1,VIP GR: OTE Sports 7 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12561
+#EXTINF:-1,VIP GR: OTE Sports 8 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12560
+#EXTINF:-1,VIP GR: Edge Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23491
+#EXTINF:-1,VIP GR: Eurosport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23537
+#EXTINF:-1,VIP GR: EuroSport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23536
+#EXTINF:-1,GR: Eurosport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/3091
+#EXTINF:-1 group-title="Live: Belgium",VIP BE: Eleven Pro League 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18766
+#EXTINF:-1,VIP BE: Eleven Pro League 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/53164
+#EXTINF:-1,VIP BE: Eleven Pro League 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18765
+#EXTINF:-1,VIP BE: Eleven Pro League 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/51041
+#EXTINF:-1,VIP BE: ELEVEN SPORT 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64355
+#EXTINF:-1,VIP BE: ELEVEN SPORT 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18762
+#EXTINF:-1,VIP BE: ELEVEN SPORT 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64356
+#EXTINF:-1,VIP BE: ELEVEN SPORT 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18761
+#EXTINF:-1,VIP BE: ELEVEN SPORT 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64357
+#EXTINF:-1,VIP BE: ELEVEN SPORT 1 FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/16166
+#EXTINF:-1,VIP BE: ELEVEN SPORT 2 FR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17159
+#EXTINF:-1,VIP BE: VOO Sports 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7852
+#EXTINF:-1,BE: VOO Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14382
+#EXTINF:-1,VIP BE: VOO Sports 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/10381
+#EXTINF:-1,VIP BE: VOO Sports 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14904
+#EXTINF:-1,VIP BE: Proximus 11 Sport 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/63552
+#EXTINF:-1,VIP BE: Play Sport 1HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22436
+#EXTINF:-1,VIP BE: Play Sport 2HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7760
+#EXTINF:-1,VIP BE: Play Sport 3HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7759
+#EXTINF:-1,VIP BE: Play Sport 4HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/50382
+#EXTINF:-1,VIP BE: Play Sport 5HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/50383
+#EXTINF:-1,VIP BE: Play Sport 6HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/50384
+#EXTINF:-1,VIP BE: Play Sport Golf HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/50385
+#EXTINF:-1 group-title="Live: Poland",VIP PL: CANAL+SPORT FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31204
+#EXTINF:-1,VIP PL: CANAL+SPORT 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31205
+#EXTINF:-1,VIP PL: CANAL+SPORT 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31206
+#EXTINF:-1,VIP PL: CANAL+SPORT 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31207
+#EXTINF:-1,VIP PL: Polsat Sport Premium 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18957
+#EXTINF:-1,VIP PL: Polsat Sport Premium 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18958
+#EXTINF:-1,VIP PL: Polsat Sport Premium PPV 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26019
+#EXTINF:-1,VIP PL: Polsat Sport Premium PPV 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26020
+#EXTINF:-1,VIP PL: Polsat Sport Premium PPV 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26021
+#EXTINF:-1,VIP PL: Polsat Sport Premium PPV 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26022
+#EXTINF:-1,PL: CANAL+ SPORT
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5144
+#EXTINF:-1,PL: CANAL+ SPORT 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5145
+#EXTINF:-1,PL: Canal+ Sport 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8087
+#EXTINF:-1,PL: Canal+ Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8089
+#EXTINF:-1,PL: Eleven Sports 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7163
+#EXTINF:-1,PL: Eleven Sports 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7162
+#EXTINF:-1,PL: Eleven Sports 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8345
+#EXTINF:-1,PL: Eleven Sports 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/15994
+#EXTINF:-1,PL: EUROSPORT 1FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8066
+#EXTINF:-1,PL: EUROSPORT FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17547
+#EXTINF:-1,PL: Polsat Sport Extra FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14896
+#EXTINF:-1,PL: Polsat Sport Extra HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5183
+#EXTINF:-1,PL: Polsat Sport Fight
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12690
+#EXTINF:-1,PL: TVP SPORT
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2704
+#EXTINF:-1,PL: TVP Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8067
+#EXTINF:-1 group-title="Live: Hungary",HU: Digi Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6825
+#EXTINF:-1,HU: Digi Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6824
+#EXTINF:-1,HU: Digi Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6821
+#EXTINF:-1,HU: Eurosport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22284
+#EXTINF:-1,HU: Eurosport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22283
+#EXTINF:-1,HU: Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6836
+#EXTINF:-1,HU: Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6837
+#EXTINF:-1 group-title="Live: EX-Yu",VIP BH: Nova Sport FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34653
+#EXTINF:-1,VIP BH: Nova Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34562
+#EXTINF:-1,VIP RS: ARENA SPORT FHD 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31093
+#EXTINF:-1,VIP RS: ARENA SPORT FHD 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31094
+#EXTINF:-1,VIP RS: ARENA SPORT FHD 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31095
+#EXTINF:-1,VIP RS: ARENA SPORT FHD 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31096
+#EXTINF:-1,VIP RS: ARENA SPORT FHD 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31097
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20644
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20643
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20642
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20641
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20640
+#EXTINF:-1,VIP CRO: ARENA SPORT FHD 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20639
+#EXTINF:-1,VIP CRO: PLANET SPORT 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19187
+#EXTINF:-1,VIP CRO: PLANET SPORT 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19188
+#EXTINF:-1,VIP CRO: PLANET SPORT 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19189
+#EXTINF:-1,VIP CRO: PLANET SPORT 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64359
+#EXTINF:-1,VIP CRO: PLANET SPORT 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/64360
+#EXTINF:-1,VIP CRO: SPORT KLUB 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20654
+#EXTINF:-1,VIP CRO: SPORT KLUB 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20653
+#EXTINF:-1,VIP CRO: SPORT KLUB 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20652
+#EXTINF:-1,VIP CRO: SPORT KLUB 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20651
+#EXTINF:-1,VIP CRO: SPORT KLUB 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20650
+#EXTINF:-1,VIP CRO: SPORT KLUB 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20649
+#EXTINF:-1,VIP CRO: SPORT KLUB 7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20648
+#EXTINF:-1,VIP CRO: SPORT KLUB 8
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20647
+#EXTINF:-1,VIP CRO: SPORT KLUB 9
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20646
+#EXTINF:-1,VIP CRO: SPORT KLUB 10
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20645
+#EXTINF:-1,CRO: Arena Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2505
+#EXTINF:-1,CRO: Arena Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2503
+#EXTINF:-1,CRO: Arena Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2501
+#EXTINF:-1,CRO: Arena Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2499
+#EXTINF:-1,CRO: Arena Sport 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2497
+#EXTINF:-1,CRO: Arena Sport 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13586
+#EXTINF:-1,CRO: SPORT KLUB 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2494
+#EXTINF:-1,CRO: SPORT KLUB 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2493
+#EXTINF:-1,CRO: SPORT KLUB 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2492
+#EXTINF:-1,CRO: SPORT KLUB 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5345
+#EXTINF:-1,CRO: SPORT KLUB 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5344
+#EXTINF:-1,CRO: SPORT KLUB 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/5343
+#EXTINF:-1,RS: Arena Sport 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2504
+#EXTINF:-1,RS: Arena Sport 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2502
+#EXTINF:-1,RS: Arena Sport 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2500
+#EXTINF:-1,RS: Arena Sport 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2498
+#EXTINF:-1,RS: Arena Sport 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13590
+#EXTINF:-1,RS: SPORT KLUB 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7735
+#EXTINF:-1,RS: SPORT KLUB 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7734
+#EXTINF:-1,RS: SPORT KLUB 3 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7733
+#EXTINF:-1,RS: SPORT KLUB 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23610
+#EXTINF:-1,RS: SPORT KLUB 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23609
+#EXTINF:-1,RS: SPORT KLUB 6 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23608
+#EXTINF:-1,RS: Eurosport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23612
+#EXTINF:-1,RS: Eurosport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23611
+#EXTINF:-1 group-title="Live: Spain",ES: M. LaLiga H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/49814
+#EXTINF:-1,ES: M. LaLiga FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23057
+#EXTINF:-1,ES: M. LaLiga HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19207
+#EXTINF:-1,ES: M. LaLiga
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2409
+#EXTINF:-1,ES: M. LaLiga SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/33150
+#EXTINF:-1,ES: M. LaLIga 1 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7181
+#EXTINF:-1,ES: M. LaLiga 1FHD (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23105
+#EXTINF:-1,ES: M. LaLIga 2 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7182
+#EXTINF:-1,ES: M. LaLiga 2FHD (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23104
+#EXTINF:-1,ES: M. LaLIga 3 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7183
+#EXTINF:-1,ES: M. LaLIga 3FHD (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34550
+#EXTINF:-1,ES: M. LaLIga 4 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23103
+#EXTINF:-1,ES: M. LaLIga 5 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23102
+#EXTINF:-1,ES: M. LaLIga 6 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23101
+#EXTINF:-1,ES: M. LaLIga 7 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23100
+#EXTINF:-1,ES: M. LaLIga 8 (event only)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23099
+#EXTINF:-1,ES: La Liga BAR H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/49813
+#EXTINF:-1,ES: La Liga BAR FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23045
+#EXTINF:-1,ES: La Liga BAR SD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34552
+#EXTINF:-1,ES: La Liga BAR HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7180
+#EXTINF:-1,ES: La Liga BAR M1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23065
+#EXTINF:-1,ES: La Liga BAR M2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34553
+#EXTINF:-1,ES: La Liga BAR M3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34554
+#EXTINF:-1,ES: La Liga BAR M4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/34555
+#EXTINF:-1,ES: M. Deportes FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23041
+#EXTINF:-1,ES: M. Deportes HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2407
+#EXTINF:-1,ES: M. Deportes
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/636
+#EXTINF:-1,ES: M. Deportes 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23094
+#EXTINF:-1,ES: M. Deportes 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23032
+#EXTINF:-1,ES: M. Deportes 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23093
+#EXTINF:-1,ES: M. Deportes 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23092
+#EXTINF:-1,ES: M. Deportes 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23091
+#EXTINF:-1,ES: M. Deportes 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23090
+#EXTINF:-1,ES: M. Deportes 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23089
+#EXTINF:-1,ES: M. Deportes 7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23088
+#EXTINF:-1,ES: M. Liga De Campeones FHD H265
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/49812
+#EXTINF:-1,ES: M. Liga De Campeones FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23035
+#EXTINF:-1,ES: M. Liga De Campeones HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19206
+#EXTINF:-1,ES: M. Liga De Campeones
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6491
+#EXTINF:-1,ES: M. Liga De Campeones 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1441
+#EXTINF:-1,ES: M. Liga De Campeones 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19205
+#EXTINF:-1,ES: M. Liga De Campeones 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19204
+#EXTINF:-1,ES: M. Liga De Campeones 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19203
+#EXTINF:-1,ES: M. Liga De Campeones 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19202
+#EXTINF:-1,ES: M. Liga De Campeones 5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19201
+#EXTINF:-1,ES: M. Liga De Campeones 6
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/23098
+#EXTINF:-1,ES: M. Liga De Campeones 7
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19200
+#EXTINF:-1,ES: M. Liga De Campeones 8
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/19199
+#EXTINF:-1 group-title="Live: United Kingdom",VIP UK: BBC One FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2240
+#EXTINF:-1,VIP UK: BBC Two FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2238
+#EXTINF:-1,VIP UK: BBC Three FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2239
+#EXTINF:-1,VIP UK: BBC Four FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8169
+#EXTINF:-1,VIP UK: ITV FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6886
+#EXTINF:-1,VIP UK: ITV 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7623
+#EXTINF:-1,VIP UK: ITV 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8182
+#EXTINF:-1,VIP UK: ITV 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7624
+#EXTINF:-1,VIP UK: Channel 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8170
+#EXTINF:-1,VIP UK: Channel 5 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/8171
+#EXTINF:-1,VIP UK: Sky Atlantic HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12581
+#EXTINF:-1,VIP UK: Sky Witness HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20567
+#EXTINF:-1,VIP UK: Sky Nature FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20585
+#EXTINF:-1,VIP UK: Sky History FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12475
+#EXTINF:-1,VIP UK: Sky Documentary FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30634
+#EXTINF:-1,VIP UK: Sky Cinema Premiere HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11769
+#EXTINF:-1,VIP UK: Sky Cinema Action HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12576
+#EXTINF:-1,VIP UK: Sky Cinema Select HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12579
+#EXTINF:-1,VIP UK: Sky Cinema SC-FI & Horror HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11768
+#EXTINF:-1,VIP UK: Sky Cinema Drama HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11772
+#EXTINF:-1,VIP UK: Sky Cinema Family HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29790
+#EXTINF:-1,VIP UK: Sky Cinema Greats HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11771
+#EXTINF:-1,VIP UK: Sky Cinema Disney HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/11773
+#EXTINF:-1,VIP UK: Sky Cinema Comedy HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12577
+#EXTINF:-1,VIP UK: Sky Cinema Thriller HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12578
+#EXTINF:-1,VIP UK: Sky Cinema Hits HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/60881
+#EXTINF:-1,VIP UK: Sky Cinema Animation HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12575
+#EXTINF:-1,VIP UK: Sky Store 1 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/44266
+#EXTINF:-1,VIP UK: Sky Store 2 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/44267
+#EXTINF:-1,VIP UK: Sky Store 3 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/44268
+#EXTINF:-1,VIP UK: Sky Store 4 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/44269
+#EXTINF:-1,VIP UK: Sky Store 5 FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/44270
+#EXTINF:-1,VIP UK: LA LIGA HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18771
+#EXTINF:-1,VIP UK: Virgin Media One
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22622
+#EXTINF:-1,VIP UK: Virgin Media Two
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22623
+#EXTINF:-1,VIP UK: Virgin Media Three
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/22624
+#EXTINF:-1,VIP UK: Virgin Media Sport HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26923
+#EXTINF:-1,VIP UK: BBC RED BUTTON 1 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26205
+#EXTINF:-1,VIP UK: BBC RED BUTTON 2 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26204
+#EXTINF:-1,VIP UK: BBC RED BUTTON 3 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26203
+#EXTINF:-1,VIP UK: BBC RED BUTTON 4 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26202
+#EXTINF:-1,VIP UK: BBC RED BUTTON 5 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26201
+#EXTINF:-1,VIP UK: BBC RED BUTTON 6 [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26200
+#EXTINF:-1,VIP UK: Leeds United TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31105
+#EXTINF:-1,VIP UK: ABERDEEN FC TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30552
+#EXTINF:-1,VIP UK: CELTIC FC TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30557
+#EXTINF:-1,VIP UK: DUNDEE FC TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30553
+#EXTINF:-1,VIP UK: HEARTS TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30554
+#EXTINF:-1,VIP UK: HIBS FC TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30555
+#EXTINF:-1,VIP UK: RANGERS FC TV [Live During Events Only]
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/30556
+#EXTINF:-1,UK: BBC 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/274
+#EXTINF:-1,UK: BBC 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/273
+#EXTINF:-1,UK: BBC 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/272
+#EXTINF:-1,UK: BBC 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/271
+#EXTINF:-1,UK: BBC Scotland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29121
+#EXTINF:-1,UK: BBC One Scotland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17995
+#EXTINF:-1,UK: BBC Two Scotland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17996
+#EXTINF:-1,UK: BBC One Wales
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17997
+#EXTINF:-1,UK: BBC Two Wales
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29123
+#EXTINF:-1,UK: BBC One Northern Ireland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29122
+#EXTINF:-1,UK: BBC Two Northern Ireland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/29124
+#EXTINF:-1,UK: BBC Parliament
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17998
+#EXTINF:-1,UK: BBC Alba
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17999
+#EXTINF:-1,UK: CBeebies HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6146
+#EXTINF:-1,UK: CBBC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/6147
+#EXTINF:-1,UK: BBC News HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/915
+#EXTINF:-1,UK: BBC World News
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26106
+#EXTINF:-1,UK: Itv 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/268
+#EXTINF:-1,UK: Itv 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/267
+#EXTINF:-1,UK: Itv 3
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/252
+#EXTINF:-1,UK: Itv 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/251
+#EXTINF:-1,UK: Channel 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/927
+#EXTINF:-1,UK: Channel 5 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/928
+#EXTINF:-1,UK: Eir Sport 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/376
+#EXTINF:-1,UK: Eir Sport 2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/18130
+#EXTINF:-1,UK: Chelsea TV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/937
+#EXTINF:-1,UK: 3E
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/920
+#EXTINF:-1,UK: 4Music
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12518
+#EXTINF:-1,UK: 4seven
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12517
+#EXTINF:-1,UK: 5 Star
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7616
+#EXTINF:-1,UK: 5 Usa
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/922
+#EXTINF:-1,UK: Alibi
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/933
+#EXTINF:-1,UK: AMC From BT
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12495
+#EXTINF:-1,UK: Animal Planet
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1643
+#EXTINF:-1,UK: baby tv
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2232
+#EXTINF:-1,UK: BET
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7618
+#EXTINF:-1,UK: Bike
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12515
+#EXTINF:-1,UK: Blaze
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12514
+#EXTINF:-1,UK: Bloomberg
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12513
+#EXTINF:-1,UK: Boomerang
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1285
+#EXTINF:-1,UK: C ITV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12511
+#EXTINF:-1,UK: Cartoon network
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2231
+#EXTINF:-1,UK: Cartoonito
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/17913
+#EXTINF:-1,UK: CBS Drama
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/924
+#EXTINF:-1,UK: CBS Justice
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/926
+#EXTINF:-1,UK: CBS Reality
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/925
+#EXTINF:-1,UK: Challenge
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12512
+#EXTINF:-1,UK: Chart Show Hits UK
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20591
+#EXTINF:-1,UK: Clubland TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/42042
+#EXTINF:-1,UK: BOX Hits
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20572
+#EXTINF:-1,UK: CNBC News
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12365
+#EXTINF:-1,UK: CNN HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/31078
+#EXTINF:-1,UK: Comedy Central Extra
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1639
+#EXTINF:-1,UK: Comedy Central HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2219
+#EXTINF:-1,UK: Crime & Investigation HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12509
+#EXTINF:-1,UK: Dave HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/934
+#EXTINF:-1,UK: Discovery
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1638
+#EXTINF:-1,UK: Discovery History
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1245
+#EXTINF:-1,UK: Discovery Science
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1299
+#EXTINF:-1,UK: Discovery Shed
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12508
+#EXTINF:-1,UK: Discovery Turbo
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1637
+#EXTINF:-1,UK: DISNEY HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1298
+#EXTINF:-1,UK: Disney XD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12507
+#EXTINF:-1,UK: DMAX HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2220
+#EXTINF:-1,UK: Drama
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1272
+#EXTINF:-1,UK: E!
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1635
+#EXTINF:-1,UK: E4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1270
+#EXTINF:-1,UK: E4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7632
+#EXTINF:-1,UK: EDEN HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7628
+#EXTINF:-1,UK: Film 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/917
+#EXTINF:-1,UK: Film4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7627
+#EXTINF:-1,UK: Fine Living Network
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1268
+#EXTINF:-1,UK: Five
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20573
+#EXTINF:-1,UK: Food Network
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/4389
+#EXTINF:-1,UK: Fox
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1632
+#EXTINF:-1,UK: Fox News HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2234
+#EXTINF:-1,UK: France 24
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12504
+#EXTINF:-1,UK: Gold
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/932
+#EXTINF:-1,UK: Good Food
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/923
+#EXTINF:-1,UK: H2
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2237
+#EXTINF:-1,UK: 5 Select
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12309
+#EXTINF:-1,UK: History HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2236
+#EXTINF:-1,UK: H&H+1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/931
+#EXTINF:-1,UK: Home Health
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12503
+#EXTINF:-1,UK: Horror Channel
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/935
+#EXTINF:-1,UK: Horse and Country
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7617
+#EXTINF:-1,UK: Investigation Discovery
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1296
+#EXTINF:-1,UK: ITVBE
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2224
+#EXTINF:-1,UK: Kerrang TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20578
+#EXTINF:-1,UK: Life Time HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12501
+#EXTINF:-1,UK: London Live
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12500
+#EXTINF:-1,UK: Magic TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12498
+#EXTINF:-1,UK: More 4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1295
+#EXTINF:-1,UK: More 4 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7630
+#EXTINF:-1,UK: Motors
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12499
+#EXTINF:-1,UK: Movies4Men
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1263
+#EXTINF:-1,UK: MTV Live FHD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/35379
+#EXTINF:-1,UK: MTV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7622
+#EXTINF:-1,UK: MTV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7620
+#EXTINF:-1,UK: MTV Base
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12305
+#EXTINF:-1,UK: MTV Classic
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7619
+#EXTINF:-1,UK: Club MTV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12308
+#EXTINF:-1,UK: MTV Hits
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7621
+#EXTINF:-1,UK: MTV Dance
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26351
+#EXTINF:-1,UK: MTV OMG
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26352
+#EXTINF:-1,UK: MTV Music
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12306
+#EXTINF:-1,UK: MTV Rocks
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12307
+#EXTINF:-1,UK: Nat Geo
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1293
+#EXTINF:-1,UK: Nat Geo Wild
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1302
+#EXTINF:-1,UK: Nick Jnr Too
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12496
+#EXTINF:-1,UK: NICK JUNIOR
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1292
+#EXTINF:-1,UK: NICK TOONS
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1261
+#EXTINF:-1,UK: Nickelodeon
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1291
+#EXTINF:-1,UK: Nollywood
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/14150
+#EXTINF:-1,UK: Now 80s
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/26617
+#EXTINF:-1,UK: Now 90s
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20579
+#EXTINF:-1,UK: PBS America
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20574
+#EXTINF:-1,UK: PICK
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2223
+#EXTINF:-1,UK: POP
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12494
+#EXTINF:-1,UK: Quest
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/921
+#EXTINF:-1,UK: Quest Red
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20417
+#EXTINF:-1,UK: Real Lives
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2222
+#EXTINF:-1,UK: Really
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1631
+#EXTINF:-1,UK: ROK TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20575
+#EXTINF:-1,UK: RT Documentary HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20570
+#EXTINF:-1,UK: RTE 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12493
+#EXTINF:-1,UK: RTE 2 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12492
+#EXTINF:-1,UK: RTE News Now
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20569
+#EXTINF:-1,UK: Rte One
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/418
+#EXTINF:-1,UK: Rte two
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/584
+#EXTINF:-1,UK: RTEjr
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2227
+#EXTINF:-1,UK: S4C
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12491
+#EXTINF:-1,UK: SKY 1 HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/7629
+#EXTINF:-1,UK: Sky Arts
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/414
+#EXTINF:-1,UK: Sky Atlantic
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12275
+#EXTINF:-1,UK: Sky Living
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/585
+#EXTINF:-1,UK: Sky Movies Action & Adv
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/264
+#EXTINF:-1,UK: Sky Movies Comedy
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/263
+#EXTINF:-1,UK: Sky Movies Drama
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/265
+#EXTINF:-1,UK: Sky Movies Family
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/266
+#EXTINF:-1,UK: Sky Movies Modern-Geant
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/262
+#EXTINF:-1,UK: Sky Movies Premiere
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/261
+#EXTINF:-1,UK: Sky Movies Sci-Fi
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/254
+#EXTINF:-1,UK: Sky Movies Select
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/260
+#EXTINF:-1,UK: Sky Movies Showcase
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/269
+#EXTINF:-1,UK: Sky Movies Thriller
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/270
+#EXTINF:-1,UK: Sky News
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/930
+#EXTINF:-1,UK: Sky One
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/417
+#EXTINF:-1,UK: Sky Two
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/415
+#EXTINF:-1,UK: Sky Witness
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20568
+#EXTINF:-1,UK: Sony Channel
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12489
+#EXTINF:-1,UK: Sony Entertainment (SET)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2839
+#EXTINF:-1,UK: spike
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2226
+#EXTINF:-1,UK: Starz TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12488
+#EXTINF:-1,UK: Syfy
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/25878
+#EXTINF:-1,UK: STV HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12487
+#EXTINF:-1,UK: TCM HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/21324
+#EXTINF:-1,UK: TG4
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1255
+#EXTINF:-1,UK: The Vault
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12486
+#EXTINF:-1,UK: Tiny Pop
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12485
+#EXTINF:-1,UK: TLC
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2074
+#EXTINF:-1,UK: Total Country
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/20571
+#EXTINF:-1,UK: Travel Channel
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12484
+#EXTINF:-1,UK: Talking Pictures HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12483
+#EXTINF:-1,UK: True Ent
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12482
+#EXTINF:-1,UK: True Movies 1
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1251
+#EXTINF:-1,UK: True TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12481
+#EXTINF:-1,UK: TV3 IR HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2225
+#EXTINF:-1,UK: TV5
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12480
+#EXTINF:-1,UK: UFC fight night Pass HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12520
+#EXTINF:-1,UK: UFC Fight PASS
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12479
+#EXTINF:-1,UK: Universal Channel HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12276
+#EXTINF:-1,UK: UTV Ireland
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2221
+#EXTINF:-1,UK: VH1 Classic
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/13841
+#EXTINF:-1,UK: Viceland HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12478
+#EXTINF:-1,UK: VIVA
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12477
+#EXTINF:-1,UK: W HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/12476
+#EXTINF:-1,UK: Watch
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1252
+#EXTINF:-1,UK: Yesterday HD
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/936
+#EXTINF:-1,UK: LFC TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/1239
+#EXTINF:-1,UK: Star Bharat
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2842
+#EXTINF:-1,UK: Colors Europe
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2846
+#EXTINF:-1,UK: Colors
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2845
+#EXTINF:-1,UK: B4U PLUS
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2851
+#EXTINF:-1,UK: B4U Music
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2853
+#EXTINF:-1,UK: B4U Movies
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2850
+#EXTINF:-1,UK: And TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2841
+#EXTINF:-1,UK: ABP News
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2859
+#EXTINF:-1,UK: Aaj Tak
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2858
+#EXTINF:-1,UK: Zing
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2854
+#EXTINF:-1,UK: Zee TV
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2837
+#EXTINF:-1,UK: Zee Punjabi
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2855
+#EXTINF:-1,UK: Zee Cinema
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2847
+#EXTINF:-1,UK: Star Plus
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2838
+#EXTINF:-1,UK: Star Jalsha
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2857
+#EXTINF:-1,UK: Star Gold
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2848
+#EXTINF:-1,UK: SET Max
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2849
+#EXTINF:-1,UK: Sab TV (SET)
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2840
+#EXTINF:-1,UK: Rishtey
+http://tunestream.me:8080/f2xEqtXxaYtb/mQMfPEcmz9gb/2843
